@@ -10,6 +10,90 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+   /* Modern */
+  --color-primary: #1a1a1a;
+  --color-accent: #0f0f0f;
+  --color-muted: #6b6b6b;
+  --color-background: #EEE6D8;
+  
+  /* Gold white black */
+  /* --color-primary: #0f0f0f;
+  --color-accent: #c8a45c;
+  --color-muted: #f3f4f6;
+  --color-background: #ffffff; */
+
+  /* Charcoal + Construction Orange */
+  /* 
+  --color-primary: #1f2937;
+  --color-accent: #f97316;
+  --color-muted: #f1f5f9;
+  --color-background: #ffffff;
+  */
+
+  /* Navy+Orange */
+  /* 
+  --color-primary: #0f172a;
+  --color-accent: #f97316;
+  --color-muted: #e2e8f0;
+  --color-background: #ffffff;
+  */
+
+  /* Black + Red */
+  /* 
+  --color-primary: #111111;
+  --color-accent: #e63946;
+  --color-muted: #f1f5f9;
+  --color-background: #ffffff;
+  */
+
+  /* Dark Green + Gold */
+  /* 
+    --color-primary: #1b4332;
+  --color-accent: #c8a45c;
+  --color-muted: #f3f4f6;
+  --color-background: #ffffff;
+   */
+
+   /* Slate Gray + Yellow */
+    /* 
+    --color-primary: #334155;
+    --color-accent: #facc15;
+    --color-muted: #f1f5f9;
+    --color-background: #ffffff;
+    */
+
+    /* Dark Blue + Gold */
+    /*   --color-primary: #1e293b;
+  --color-accent: #d4af37;
+  --color-muted: #f3f4f6;
+  --color-background: #ffffff;
+   */
+
+   /* Black + Copper */
+   /* 
+    --color-primary: #0f0f0f;
+    --color-accent: #b45309;
+    --color-muted: #f3f4f6;
+    --color-background: #ffffff;
+    */
+
+    /* Minimal Architecture */
+    /* 
+      --color-primary: #111827;
+      --color-accent: #6b7280;
+      --color-muted: #f3f4f6;
+      --color-background: #ffffff;
+    */
+
+    /* Deep Blue + Teal */
+    /* 
+      --color-primary: #1e3a8a;
+      --color-accent: #14b8a6;
+      --color-muted: #e2e8f0;
+      --color-background: #ffffff;
+   */
+
 }
 
 @media (prefers-color-scheme: dark) {

@@ -1,9 +1,9 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function Hero() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white sm:items-start">
+    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-background">
+      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg- dark:bg-black sm:items-start">
                 <Image
           className="dark:invert"
           src="/images/logo/DoubleLB&W-Logo.png"
