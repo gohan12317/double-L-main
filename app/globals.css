@@ -6,16 +6,16 @@
 }
 
 @theme inline {
-  --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 
    /* Modern */
-  --color-primary: #1a1a1a;
-  --color-accent: #0f0f0f;
-  --color-muted: #6b6b6b;
-  --color-background: #EEE6D8;
+--color-primary: #0b1012;
+--color-accent: #212325;
+--color-muted: #d4cec6;
+--color-background: #f3f0ec;
+--color-white: #ffffff;
   
   /* Gold white black */
   /* --color-primary: #0f0f0f;
